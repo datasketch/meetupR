@@ -1,0 +1,7 @@
+
+Pasos para configurar UTF8 en mac R
+
+Open Terminal
+Write or paste in: defaults write org.R-project.R force.LANG en_US.UTF-8
+Close Terminal
+Start R
